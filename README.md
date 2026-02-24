@@ -14,9 +14,9 @@
 |    7    |17/2      | [Azure - Cloud](07._Azure_vm_portal_az/README.md)|
 |    8    |20/2      | [Azure - Cloud II](07._Azure_vm_portal_az/README.md)|
 |   9     |24/2      | [Continous delivery](09._Continous_delivery/README.md)|
-|   10    |27/2      | [CI - code quality, linting, static code analysis]()          |
+|   10    |27/2      | [Continous delivery](09._Continous_delivery/README.md)|
 |   11    |3/3       | [Groups - Getting ready for presentation]() - No Teachings in class |
-|   12    |6/3       | []()                 |
+|   12    |6/3       | [Presentation]()                |
 |   13    |10/3      |      |
 |   14    |13/3      |      |
 |   15    |17/3      |      |
